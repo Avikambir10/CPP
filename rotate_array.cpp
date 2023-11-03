@@ -1,4 +1,4 @@
-// Reverse an array k times.
+// Rotate an array k times.
 #include <iostream>
 using namespace std;
 
