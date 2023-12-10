@@ -8,17 +8,6 @@ Input Format:
 
 Output Format:
 Print 1 if the element is present in the matrix, else 0. */
-
-
-
-
-
-
-
-
-
-
-
 #include <iostream>
 #include <vector>
 
