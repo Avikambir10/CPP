@@ -8,7 +8,7 @@ void towerofHANOI(int n, char source, char helper, char destinaton)
     }
     towerofHANOI(n - 1, source, destinaton, helper);
     cout << "Move from " << source << " to " << destinaton << "\n";
-    towerofHANOI(n - 1, helper, source, destinaton);
+    towerofHANOI(n - 1, destination, helper, source);
 
 }
 int main()
